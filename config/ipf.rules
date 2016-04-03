@@ -1,0 +1,7 @@
+#pass in quick on em1 proto tcp from any to any port = 80
+pass in quick on em1 proto tcp from any to any port = 82
+pass in quick on em1 proto udp from any to any port = 53
+block in log quick on em1 proto udp from any to any 
+#block in log quick on em1 proto udp from any to any port 1024 >< 60000
+pass in all
+pass out all
