@@ -1,0 +1,6 @@
+#ifndef APP_FUNC_H_INCLUDED
+#define APP_FUNC_H_INCLUDED
+
+
+
+#endif // APP_FUNC_H_INCLUDED
