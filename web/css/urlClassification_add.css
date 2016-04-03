@@ -1,0 +1,39 @@
+* {
+    font-family: '宋体';
+    font-size: 20px;
+    padding: 0 0;
+    margin: 0 0;
+}
+form {
+    margin: 10px 30px;
+}
+ul {
+    list-style: none;
+}
+li {
+    height: 34px;
+}
+.configure{
+    float: left;
+    margin: 0 0;
+}
+.configure label{
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+}
+input {
+    width: 220px;
+    height: 28px;
+    margin: 1px 1px;
+    text-indent: 5px;
+}
+button {
+    width: 80px;
+    height: 40px;
+    margin-left: 180px;
+    margin-top: 20px;
+}.radio {
+    width: 30px;
+    height: 18px;
+}

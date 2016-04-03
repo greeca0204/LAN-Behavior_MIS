@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='gb2312'?>
+<graph caption='' xAxisName="候选人" yAxisName="vote" showNames='1' decimalPrecision='0' formatNumberScale='0' baseFont="宋体" baseFontSize="12" bgColor="0092DC" canvasBgColor="77FFCC">
+    <set name="1黄泽航" value='2' color='AFD8F8' />"
+    <set name="2张仕勉" value='13' color='F6BD0F' />
+    <set name="3张苏霞" value='17' color='8BBA00' />
+    <set name="4卜伟华" value='1' color='FF8E46' />
+    <set name="5黄志安" value='6' color='008E8E' />
+    <set name="6陈海花" value='6' color='D64646' />
+    <set name="7黄懿衡" value='11' color='8E468E' />
+    <set name="8陈浩棉" value='24' color='588526' />
+    <set name="9刘云峰" value='3' color='B3AA00' />
+</graph>
+

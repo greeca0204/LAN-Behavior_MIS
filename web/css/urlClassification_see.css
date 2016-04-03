@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+}
+li {
+    height: 34px;
+}
+.fitem {
+    float: left;
+    width: 280px;
+    height: 28px;
+}
+input {
+    height: 18px;
+    margin: 1px;
+    width: 180px;
+}

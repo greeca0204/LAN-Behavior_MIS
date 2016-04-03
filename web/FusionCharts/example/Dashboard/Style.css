@@ -1,0 +1,149 @@
+.topbar
+{
+	BACKGROUND: #333333;
+}
+
+.bottombar
+{
+	BACKGROUND: #DFDFDF;
+}
+
+a.topbar
+{
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: -0.2pt;
+}
+
+a.topbar:hover
+{
+	COLOR: #CCCCCC;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: -0.2pt;
+}
+
+.textbox
+{
+	BORDER: 1px solid #333333;
+	COLOR: #333333;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 11px;
+	LETTER-SPACING: -0.2pt;	
+}
+
+
+.menutable
+{
+	BORDER-RIGHT: 1px solid #DFDFDF;
+	BACKGROUND: #FCFCFC;
+	FONT-WEIGHT:none;
+}
+.table
+{
+	BORDER-RIGHT: 1px solid #DFDFDF;
+	BORDER-LEFT: 1px solid #DFDFDF;
+	BORDER-BOTTOM: 1px solid #DFDFDF;
+	BACKGROUND: #FCFCFC;
+	FONT-WEIGHT:none;
+}
+.menuheader
+{
+	COLOR: #CC0000;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: -0.2pt;
+}
+
+a.menuitem
+{
+	COLOR: #CC0000;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	LETTER-SPACING: -0.2pt;	
+	FONT-WEIGHT:normal;
+}
+
+a.menuitem:hover
+{
+	COLOR: #FF5E5E;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	LETTER-SPACING: -0.2pt;	
+}
+
+.text
+{
+	COLOR: #333333;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 11px;
+	LETTER-SPACING: -0.2pt;
+}
+.code
+{
+	COLOR: #333333;
+	FONT-FAMILY: Courier New;
+	FONT-SIZE: 12px;
+	LETTER-SPACING: -0.2pt;
+}
+.textbold
+{
+	COLOR: #333333;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: bold;
+}
+.header
+{
+	COLOR: #CC0000;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: -0.2pt
+}
+
+.pagesummary
+{
+	COLOR: #333333;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	LETTER-SPACING: -0.2pt
+}
+
+A:hover
+{
+	COLOR: #8a8a8a;
+}
+
+A
+{
+	COLOR: #333333;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	FONT-WEIGHT:bold;
+	LETTER-SPACING: -0.2pt;
+	TEXT-DECORATION:none;
+}
+
+.headerwhite
+{
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 8pt;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: -0.2pt;
+}
+
+
+
+.maroontext
+{
+	COLOR: #CC0000;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 11px;
+	LETTER-SPACING: -0.2pt
+}

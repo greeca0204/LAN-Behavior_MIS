@@ -1,0 +1,76 @@
+.trdark {
+BACKGROUND-COLOR:#B0BF9D;
+}
+.trlight {
+BACKGROUND-COLOR:#F2F2F2;
+}
+.trmid {
+BACKGROUND-COLOR:#EFEFDF;
+}
+.tableWithBorder {
+Border:1px #999999 solid;
+}
+.text
+{
+FONT-SIZE: 9pt; 
+COLOR: black; 
+FONT-FAMILY: MS Sans Serif;
+
+}
+.textbolddark
+{
+FONT-SIZE: 9pt; 
+COLOR: black; 
+FONT-FAMILY: MS Sans Serif;
+
+FONT-WEIGHT:bolder;
+}
+.textboldlight
+{
+FONT-SIZE: 9pt; 
+COLOR: white; 
+FONT-FAMILY: MS Sans Serif;
+
+FONT-WEIGHT:bolder;
+}
+A:hover
+{
+COLOR:#FFC20F;
+}
+A
+{
+FONT-SIZE: 9pt; 
+COLOR: black; 
+FONT-FAMILY: MS Sans Serif;
+
+TEXT-DECORATION:none;
+}
+.select 
+{
+FONT-SIZE: 9pt; 
+COLOR: black; 
+FONT-FAMILY: MS Sans Serif;
+
+TEXT-DECORATION:none;
+BACKGROUND-COLOR:#F2F2F2;
+}
+.button
+{
+FONT-SIZE: 9pt; 
+HEIGHT:20px;
+COLOR: black; 
+FONT-FAMILY: MS Sans Serif;
+
+TEXT-DECORATION:none;
+BACKGROUND-COLOR:#F2F2F2;
+}
+
+.headline {
+    font-family: Tahoma,Geneva,sans-serif;
+    font-weight: normal;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 10px;
+    padding-top: 29px;
+}
+

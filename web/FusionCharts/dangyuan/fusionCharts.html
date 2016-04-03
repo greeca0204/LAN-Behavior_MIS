@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>预备党员投票</title>
+	<link type="text/css" rel="stylesheet" href="style.css">
+	<script type="text/javascript" src="../Charts/FusionCharts.js"></script>
+</head>
+<body>
+	<div>
+		<h2 align="center">预备党员投票</h2>
+		<div id="chart1Div" align="center">
+			This text is replaced by chart.
+		</div>
+		<script type="text/javascript">
+			var chart1 = new FusionCharts("../Charts/FCF_Column3D.swf", "ChartId1", "600", "400");
+			chart1.setDataURL("data/zhuxing.xml");
+			chart1.render("chart1Div");
+		</script>
+		<ul>
+			<li>
+				<div align="center">
+					<label class="label1">投三票的同学：</label>
+					<label class="label2">26位</label>
+				</div>
+
+			</li>
+			<li>
+				<div align="center">
+				<label class="label1">投2票的同学：</label>
+				<label class="label2">1位</label>
+				</div>
+			</li>
+			<li>
+				<div align="center">
+				<label class="label1">投1票的同学：</label>
+				<label class="label2">3位</label>
+					</div>
+			</li>
+			<li>
+				<div align="center">
+				<label class="label1">未投票的同学：</label>
+				<label class="label2">4位</label>
+					</div>
+			</li>
+			<li>
+				<div align="center">
+				<label class="label1">已投票：</label>
+				<label class="label2">83票</label>
+				</div>
+			</li>
+			<li>
+				<div align="center">
+				<label class="label1">已弃权：</label>
+				<label class="label2">7票</label>
+				</div>
+			</li>
+		</ul>
+	</div>
+</body>
+</html>

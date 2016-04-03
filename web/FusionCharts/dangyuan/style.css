@@ -1,0 +1,21 @@
+body {
+    background-color: #0092DC;
+}
+ul{
+    list-style: none;
+}
+li {
+    height:20px;
+}
+.label1 {
+    font-size: 12px;
+    font-family:  '\5B8B\4F53', '\9ED1\4F53', '\5FAE\8F6F\96C5\9ED1', '\534E\6587\7EC6\9ED1', '\534E\6587\9ED1\4F53';
+    text-align: center;;
+    width: 100%;
+}
+.labe2 {
+    font-size: 12px;
+    font-family:  '\5B8B\4F53', '\9ED1\4F53', '\5FAE\8F6F\96C5\9ED1', '\534E\6587\7EC6\9ED1', '\534E\6587\9ED1\4F53';
+    text-align: center;;
+    width: 100%;
+}

@@ -1,0 +1,47 @@
+/*#dg {
+    width: 900px;
+    height: 300px;
+}*/
+#dlg {
+    width: 520px;
+    height: 430px;
+    padding: 10px 20px
+}
+ul {
+    list-style: none;
+}
+li {
+    height: 34px;
+}
+.fitem {
+    float: left;
+    width: 280px;
+    height: 28px;
+}
+.msg {
+    float: left;
+    width: 140px;
+    height: 28px;
+}
+p {
+    font-size: 12px;
+    font-family:  '\5B8B\4F53', '\9ED1\4F53', '\5FAE\8F6F\96C5\9ED1', '\534E\6587\7EC6\9ED1', '\534E\6587\9ED1\4F53';
+    color: #FF0000;
+    border: solid 0;
+    line-height: 20px;
+    text-indent: 5px;
+    display: none;
+    margin: 1px 1px;
+}
+input {
+    width: 180px;
+    height: 18px;
+    margin: 1px 1px;
+}
+label {
+    width: 30px;
+    float:left;
+    text-align: right;
+    padding-right: 10px;
+    margin: 5px 1px;
+}

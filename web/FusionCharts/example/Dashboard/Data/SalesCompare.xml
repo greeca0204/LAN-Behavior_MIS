@@ -1,0 +1,47 @@
+<graph numdivlines='4' lineThickness='3' showValues='0' numVDivLines='10' formatNumberScale='1' rotateNames='1' decimalPrecision='1' anchorRadius='2' anchorBgAlpha='0' numberPrefix='$' divLineAlpha='30' showAlternateHGridColor='1' yAxisMinValue='800000' shadowAlpha='50' >
+<categories >
+<category Name='Jan' />
+<category Name='Feb' />
+<category Name='Mar' />
+<category Name='Apr' />
+<category Name='May' />
+<category Name='Jun' />
+<category Name='Jul' />
+<category Name='Aug' />
+<category Name='Sep' />
+<category Name='Oct' />
+<category Name='Nov' />
+<category Name='Dec' />
+
+</categories>
+<dataset seriesName='Current Year' color='A66EDD' anchorBorderColor='A66EDD' anchorRadius='4'>
+	<set value='1127654' />
+	<set value='1226234' />
+	<set value='1299456' />
+	<set value='1311565' />
+	<set value='1324454' />
+	<set value='1357654' />
+	<set value='1296234' />
+	<set value='1359456' />
+	<set value='1391565' />
+	<set value='1414454' />
+	<set value='1671565' />
+	<set value='1134454' />
+</dataset>
+
+
+<dataset seriesName='Previous Year' color='F6BD0F' anchorBorderColor='F6BD0F' anchorRadius='4'>
+	<set value='927654' />
+	<set value='1126234' />
+	<set value='999456' />
+	<set value='1111565' />
+	<set value='1124454' />
+	<set value='1257654' />
+	<set value='1196234' />
+	<set value='1259456' />
+	<set value='1191565' />
+	<set value='1214454' />
+	<set value='1371565' />
+	<set value='1434454' />
+</dataset>
+</graph>

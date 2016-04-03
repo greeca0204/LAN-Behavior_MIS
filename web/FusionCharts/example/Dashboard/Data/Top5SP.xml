@@ -1,0 +1,9 @@
+<graph canvasBorderColor='333333' animation='1' caption='Top 5 Sales Person' subCaption='By Revenue Generated'
+numdivlines='4' showNames='1' showValues='0'
+chartLeftMargin='0' chartRightMargin='5'  chartTopMargin='5' showLegend='0' showAnchors='0' rotateNames='1' formatNumberScale='1' decimalPrecision='0' formatNumber='1' numberPrefix='$' hoverCapSepChar=' ' divLineColor='CCCCCC'  showAlternateHGridColor='1'>	
+	<set name='B.L' hoverText='Bill Larry' value='234354' color='8BBA00'/>
+	<set name='J.S' hoverText='Jen Shaw' value='221957' color='8BBA00'/>
+	<set name='K.S' hoverText='King Sen' value='211631' color='8BBA00'/>
+	<set name='J.G' hoverText='John Gill' value='201334' color='8BBA00'/>
+	<set name='A.S' hoverText='Andrew Stuart' value='191229' color='8BBA00'/>
+</graph>

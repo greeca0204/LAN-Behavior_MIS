@@ -1,0 +1,53 @@
+* {
+    font-family: '宋体';
+}
+body {
+    background: #416db7 url(../image/signin.jpg) no-repeat fixed top;
+}
+table {
+    width: 100%;
+    height: 100%;
+    border: 0 none;
+}
+img {
+    width: 500px;
+}
+button {
+    width:100px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.text {
+    width: 170px;
+    height: 25px;
+    border:1px solid #a4a2a2;
+    padding:6px 12px;
+}
+span {
+    font-size: 20px;
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+}
+li {
+    height: 35px;
+}
+.login {
+    float: left;
+    width: 280px;
+    height: 48px;
+}
+.msg {
+    float: left;
+    width: 120px;
+    height: 28px;
+}
+.row {
+    float: left;
+    min-width: 400px;;
+}
+

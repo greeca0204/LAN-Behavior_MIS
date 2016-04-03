@@ -1,0 +1,10 @@
+<graph caption='Top 5 Items Sold' canvasBorderColor='333333' animation='1' 
+numdivlines='4' showNames='1' showValues='0'
+chartLeftMargin='5' chartRightMargin='5'  chartTopMargin='5' showLegend='0' showAnchors='0' rotateNames='1' formatNumberScale='1' decimalPrecision='2' formatNumber='0' yAxisName='Quantity' divLineColor='CCCCCC'  showAlternateHGridColor='1'>
+
+		<set name='Fus..' hoverText='FusionCharts' value='4354' color='AFD8F8'/>
+		<set name='fXg..' hoverText='fXgraph 4.0' value='1957' color='AFD8F8'/>
+		<set name='Bill..' hoverText='Bill4Tally 3.2' value='1631' color='AFD8F8'/>
+		<set name='Rea..' hoverText='Real 1.0' value='1334' color='AFD8F8'/>
+		<set name='BI' hoverText='BI 6.1' value='1229' color='AFD8F8'/>
+</graph>

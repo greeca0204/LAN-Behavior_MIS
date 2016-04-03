@@ -1,0 +1,66 @@
+* {
+    font-family: '宋体';
+    font-size: 20px;
+    padding: 0 0;
+    margin: 0 0;
+}
+form {
+    margin: 10px 30px;
+}
+/*
+ul {
+    list-style: none;
+}
+li {
+    height: 34px;
+}
+#configureForm table {
+    width: 100%;
+    height: 100%;
+}*/
+.configure{
+    float: left;
+    margin: 0 0;
+}
+.configure label{
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+}
+input {
+    width: 220px;
+    height: 28px;
+    margin: 1px 1px;
+    text-indent: 5px;
+}
+textarea {
+    width: 220px;
+    margin: 1px 1px;
+}
+#logUpdateSetting {
+    width: 220px;
+    height: 28px;
+}
+button {
+    width: 80px;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+tr td label {
+    width: 140px;
+}
+.radio {
+    width: 30px;
+    height: 18px;
+}
+.msg {
+    float: left;
+    width: 160px;
+    height: 28px;
+    margin-left: 10px;
+}
+#tips1, #tips2, #tips3, #tips4, #tips5, #tips6{
+    display: none;
+    color: red;
+}

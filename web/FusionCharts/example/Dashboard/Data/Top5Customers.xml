@@ -1,0 +1,9 @@
+<graph caption='Top 5 Customers' canvasBorderColor='333333' animation='1' 
+numdivlines='4' showNames='1' showValues='0'
+chartLeftMargin='0' chartRightMargin='5'  chartTopMargin='5' showLegend='0' showAnchors='0' rotateNames='1' formatNumberScale='1' decimalPrecision='0' formatNumber='1' hoverCapSepChar=' ' numberPrefix='$' divLineColor='CCCCCC'  showAlternateHGridColor='1'>	
+		<set name='ABC..' hoverText='ABC Bear Co.' value='341631' color='F6BD0F'/>
+		<set name='DEF..' hoverText='DEF Inc.' value='341229' color='F6BD0F'/>
+		<set name='GHI..' hoverText='GHI Law' value='321334' color='F6BD0F'/>
+		<set name='JKL..' hoverText='JKL Industries' value='231957' color='F6BD0F'/>
+		<set name='MNO' hoverText='MNOP Quarry' value='224354' color='F6BD0F'/>
+</graph>e

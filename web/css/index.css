@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin: 0;    /*外边距margin:上，右， 下， 左*/
+    font: 9pt;  /*9pt表示字号*/
+    text-decoration: none;
+    background-color: #ffffff;
+    font-size: 13px;
+    font-family: helvetica, Times New Roman, verdana, sans-seif;
+}
+table {
+    border: 0 solid;
+    border-collapse: collapse;
+    margin: 0;
+}
+td {
+    font-size: 13px;
+    padding: 0;
+    text-align: left;
+    vertical-align: top;
+}
+/*<div id="pagetop">*/
+#pagetop {
+    background-image: url('../image/ny_03.png');
+    height: 44px;
+}
+#pagetop table {
+    width: 22%;
+    height: 100%;
+}
+#pagetop td {
+    background-position: right center;
+    background-repeat: no-repeat;
+    height: 100%;
+    text-align: center;
+}
+img {
+    border: 0 none;
+    vertical-align: middle;
+}
+/*<div id="blank">*/
+#blank {
+    background: url("../image/blank_bg.png") repeat scroll 0 0 transparent;
+    height: 24px;
+    width: 100%;
+}
+#blank table{
+    border: 0 none;
+    font-size: 13px;
+    height: 100%;
+    margin: 0;
+    table-layout: fixed;
+    width: 100%;
+}
+#blank tr {
+    line-height: 1;
+}
+#blank td {
+    background-repeat: repeat-x;
+    overflow: hidden;   /*overflow 属性规定当内容溢出元素框时发生的事情*/
+    text-align: left;
+    text-overflow: ellipsis;
+    vertical-align:middle;
+    white-space: nowrap;    /*white-space 属性设置如何处理元素内的空白。*/
+    word-break: keep-all;
+}
+#blank img {
+    border: 0 none;
+    vertical-align: middle;
+}
+#blank a {
+    text-decoration: none;
+}
+#blank a:link {
+    color: #000000;
+}
+#blank a:visited {
+    color: #000000;
+}
+

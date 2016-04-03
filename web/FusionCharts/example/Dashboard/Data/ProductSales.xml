@@ -1,0 +1,51 @@
+<graph bgColor='FCFCFC'  xaxisname='Month' yaxisname='Revenue' canvasBorderColor='333333'
+numdivlines='4' divLineColor='333333' yAxisMaxValue='100' decimalPrecision='1' numberPrefix='$'>
+	<categories font='Arial' fontSize='10' fontColor='000000'>
+		<category name='Jan' />
+		<category name='Feb' />
+		<category name='Mar' />
+		<category name='Apr' />
+		<category name='May' />
+		<category name='Jun' />
+		<category name='Jul' />
+		<category name='Aug' />
+		<category name='Sep' />
+		<category name='Oct' />
+		<category name='Nov' />
+		<category name='Dec' />
+
+	</categories>
+	<dataset seriesname='Products' color='AFD8F8' showValues='0'>
+		<set value='1127654' />
+		<set value='1226234' />
+		<set value='1299456' />
+		<set value='1311565' />
+		<set value='1324454' />
+		<set value='1357654' />
+		<set value='1296234' />
+		<set value='1359456' />
+		<set value='1391565' />
+		<set value='1414454' />
+		<set value='1671565' />
+		<set value='1134454' />
+	</dataset>
+	<dataset seriesname='Services' color='F6BD0F'  showValues='0'>
+		<set value='534241' />
+		<set value='556728' />
+		<set value='575619' />
+		<set value='676713' />
+		<set value='665520' />
+		<set value='634241' />
+		<set value='656728' />
+		<set value='675619' />
+		<set value='776713' />
+		<set value='865520' />
+		<set value='976713' />
+		<set value='665520' />
+	</dataset>
+
+	<trendLines>
+		<line startValue='1250000' endValue='1450000' color='8BBA00' thickness='1' alpha='20' showOnTop='1' displayValue='Estimated' isTrendZone='1'/>
+
+	</trendLines>
+</graph>
